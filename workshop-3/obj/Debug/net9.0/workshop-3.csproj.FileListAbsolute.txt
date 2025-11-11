@@ -1,0 +1,4 @@
+/Users/dipan/workshop-3/obj/Debug/net9.0/workshop-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipan/workshop-3/obj/Debug/net9.0/workshop-3.AssemblyInfoInputs.cache
+/Users/dipan/workshop-3/obj/Debug/net9.0/workshop-3.AssemblyInfo.cs
+/Users/dipan/workshop-3/obj/Debug/net9.0/workshop-3.csproj.CoreCompileInputs.cache
